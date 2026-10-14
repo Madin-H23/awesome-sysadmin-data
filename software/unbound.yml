@@ -9,7 +9,7 @@ tags:
   - DNS - Servers
 source_code_url: https://github.com/NLnetLabs/unbound
 stargazers_count: 4979
-updated_at: '2026-10-02'
+updated_at: '2026-10-13'
 archived: false
 current_release:
   tag: release-1.26.1
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 79
   2026-08: 13
   2026-09: 42
-  2026-10: 1
+  2026-10: 3
