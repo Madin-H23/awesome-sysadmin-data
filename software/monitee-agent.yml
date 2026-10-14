@@ -1,0 +1,15 @@
+name: Monitee agent
+website_url: https://monitee.app
+description: Server monitoring with an Android client. Tracks hardware metrics, Docker containers, systemd services and log reading. HTTP/TCP/ping/DNS checks and push alerts. GraphQL API
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - deb
+  - Docker
+tags:
+  - Log Management
+  - Metrics & Metric Collection
+  - Monitoring & Status Pages
+  - Troubleshooting
+source_code_url: https://github.com/Krillsson/monitee-agent
